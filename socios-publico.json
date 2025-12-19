@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "juan perez",
+    "tipo": "normal",
+    "mensualidad": 80
+  },
+  {
+    "id": 2,
+    "nombre": "ana torres",
+    "tipo": "premium",
+    "mensualidad": 120
+  }
+]
