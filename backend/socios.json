@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2
+  },
+  {
+    "id": 2,
+    "nombre": "cami",
+    "tipo": "normal",
+    "mensualidad": 80
+  },
+  {
+    "id": 3,
+    "nombre": "mow",
+    "tipo": "premium",
+    "mensualidad": 120
+  }
+]
